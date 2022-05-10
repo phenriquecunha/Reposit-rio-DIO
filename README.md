@@ -1,5 +1,5 @@
 # Repositorio-DIO
-Repositório onde será linkado todos os outros repos dos projetos criados durante o curso.
+Repositório onde será linkado todos os outros repositórios dos projetos criados durante o curso.
 
-#Links
+# Links
 // Por enquanto nada aqui :)
